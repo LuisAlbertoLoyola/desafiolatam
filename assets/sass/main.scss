@@ -1,0 +1,28 @@
+
+// abstracts
+@import
+  'abstracts/variables',
+  'abstracts/mixins';
+
+// vendors
+@import
+  'vendors/bootstrap-4.4.1/bootstrap.scss';
+
+// base
+@import
+  'base/base',
+  'base/reset',
+  'base/typography';
+
+// components
+@import
+ 'components/buttons',
+ 'components/input',
+ 'components/pagination';
+
+// layout
+ @import
+ 'layout/footer',
+ 'layout/header',
+ 'layout/navbar',
+ 'layout/section';

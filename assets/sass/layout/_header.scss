@@ -1,0 +1,22 @@
+// hero text
+.hero{
+  color: $white;
+  font-weight: $bold;
+  text-shadow: 2px 0px 50px $eerie-black;
+}
+
+// hero title
+.hero__container__title{
+  box-sizing: border-box;
+  margin: auto;
+  padding-top: 12%;
+}
+
+// hero image
+.hero__container{
+  box-sizing: border-box;
+  background-image: url('../img/post-image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+  }

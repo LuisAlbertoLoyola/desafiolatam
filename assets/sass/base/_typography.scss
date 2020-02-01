@@ -1,0 +1,42 @@
+h1{
+  font-family: $Playfair;
+  font-size: $xx-large;
+  font-style: italic;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+
+h2{
+  font-size: $x-large;
+  font-family: $Playfair;
+  font-style: italic;
+  color: $eerie-black;
+}
+
+h3{
+  font-size: $large;
+  font-family: $Playfair;
+  font-style: italic;
+  color: $nickel;
+  padding-bottom: 30px;
+}
+
+p{
+  font-size: $medium;
+  font-family: $Roboto;
+  font-style: sans-serif;
+  color: $nickel;
+  font-weight: 300;
+  margin: 0px;
+  line-height: 30px;
+}
+
+.nav-link{
+  font-weight: 300;
+}
+
+.author__container__blogger-info{
+  color: $ruddy-pink;
+}

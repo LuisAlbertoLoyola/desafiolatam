@@ -1,0 +1,33 @@
+.buttons{
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
+.buttons__share{
+background-color: $nickel;
+size: $medium-button;
+padding: 15px;
+text-align: center;
+color: $white;
+border-radius: 30px;
+font-weight: 300;
+
+&:hover{
+    background-color: $ruddy-pink;
+    color: $white;
+}
+}
+
+.buttons__comment{
+background-color: $nickel;
+size: $medium-button;
+padding: 15px;
+color: $white;
+border-radius: 30px;
+font-weight: 300;
+
+&:hover{
+    background-color: $ruddy-pink;
+    color: $white;
+}
+}
